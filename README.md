@@ -3,8 +3,7 @@
 - 🌱 I’m learning K8, AWS, and a little AI engineering and looking into Meshtastic! 
 - 💞️ I’m looking to collaborate on anything that will help make the world better than how I found it!
 - 📫 How to reach me: https://www.linkedin.com/in/rileysimon/
-- 😄 Pronouns:?
-- ⚡ Fun fact: 
+
 
 <!---
 simon-r1ley/simon-r1ley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
